@@ -1,2 +1,2 @@
 # myconfig
-test
+测试
